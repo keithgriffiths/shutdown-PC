@@ -1,4 +1,4 @@
-# shutdown-PC
+# Shutdown-PC
 Windows batch file to shut down PC
 
 ## simple batch file
