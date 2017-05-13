@@ -1,7 +1,7 @@
 # Shutdown-PC
 Windows batch file to shut down PC
 
-## simple batch file
+## Simple batch file
 You can use this on your Windows PC. You have two options to run this batch file:
 
 #### option 1
